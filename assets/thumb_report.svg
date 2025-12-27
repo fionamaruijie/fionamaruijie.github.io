@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" rx="28" fill="rgba(255,255,255,0.05)"/>
+  <rect x="24" y="24" width="1152" height="672" rx="22" fill="rgba(255,255,255,0.06)"/>
+  <g opacity="0.22" fill="white">
+    <rect x="90" y="120" width="520" height="26" rx="13"/>
+    <rect x="90" y="175" width="820" height="16" rx="8"/>
+    <rect x="90" y="210" width="760" height="16" rx="8"/>
+    <rect x="90" y="260" width="980" height="420" rx="18"/>
+  </g>
+  <text x="90" y="620" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="34" fill="rgba(255,255,255,0.88)" font-weight="700">Report / Writing</text>
+  <text x="90" y="660" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="18" fill="rgba(255,255,255,0.72)">Replace with your PDF cover</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" rx="28" fill="rgba(255,255,255,0.05)"/>
+  <rect x="24" y="24" width="1152" height="672" rx="22" fill="rgba(255,255,255,0.06)"/>
+  <g opacity="0.22" fill="white">
+    <circle cx="170" cy="200" r="60"/>
+    <rect x="260" y="170" width="860" height="16" rx="8"/>
+    <rect x="260" y="205" width="760" height="16" rx="8"/>
+    <rect x="90" y="320" width="1030" height="16" rx="8"/>
+    <rect x="90" y="360" width="920" height="16" rx="8"/>
+    <rect x="90" y="420" width="980" height="220" rx="18"/>
+  </g>
+  <text x="90" y="640" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="34" fill="rgba(255,255,255,0.88)" font-weight="700">Data / Research Ops</text>
+  <text x="90" y="675" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="18" fill="rgba(255,255,255,0.72)">Workflow → QA → Reusable input</text>
+</svg>

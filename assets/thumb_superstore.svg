@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#6aa7ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#86f0d6" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="28" fill="rgba(255,255,255,0.05)"/>
+  <rect x="24" y="24" width="1152" height="672" rx="22" fill="url(#bg)" opacity="0.7"/>
+  <g opacity="0.22" fill="white">
+    <rect x="80" y="120" width="320" height="24" rx="12"/>
+    <rect x="80" y="170" width="520" height="16" rx="8"/>
+    <rect x="80" y="210" width="420" height="16" rx="8"/>
+    <rect x="80" y="280" width="1040" height="10" rx="5"/>
+    <rect x="80" y="320" width="600" height="220" rx="18"/>
+    <rect x="720" y="320" width="400" height="220" rx="18"/>
+  </g>
+  <text x="80" y="620" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="34" fill="rgba(255,255,255,0.88)" font-weight="700">Superstore Sales Intelligence</text>
+  <text x="80" y="660" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="18" fill="rgba(255,255,255,0.72)">Tableau · Executive overview → drilldowns</text>
+</svg>
