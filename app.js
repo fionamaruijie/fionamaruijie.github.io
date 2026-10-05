@@ -90,14 +90,14 @@
       id: 'nyc', lon: -74.01, lat: 40.71, order: 2, dx: -12, dy: -16,
       label: 'New York', title: 'New York, USA',
       meta: 'World Salon · Research Intern (2025)',
-      body: 'New York raised my bar on execution. In a fast, cross-industry environment I built Python crawler pipelines that standardized 200+ executive profiles a week — and learned to make outputs others could use right away, not just technically correct.',
+      body: 'New York raised my bar on execution. In a fast, cross-industry environment I wrote Python scraping scripts within the IT team’s crawler workflow that standardized 200+ executive profiles a week — and learned to make outputs others could use right away, not just technically correct.',
       linkText: 'See the World Salon role', linkHref: '#tl-worldsalon'
     },
     {
       id: 'dc', lon: -77.04, lat: 38.91, order: 3, dx: 16, dy: 22,
       label: 'Washington, DC', title: 'Washington, DC',
-      meta: 'Johns Hopkins Carey · M.S. Business Analytics & AI',
-      body: 'Where I’m adding the AI layer now. For me, AI/ML isn’t a label — it’s a toolbox that makes analysis more systematic and trustworthy. It’s also where my flagship data-quality and agentic-AI projects came together.',
+      meta: 'Johns Hopkins Carey · M.S. Business Analytics & AI (STEM), Jul 2026',
+      body: 'Where I completed my M.S. in Business Analytics and Artificial Intelligence (STEM) and added the AI layer to my analytics. For me, AI/ML wasn’t a label — it was a toolbox for making analysis more systematic and trustworthy. It’s also where my flagship data-quality and AI-evaluation projects came together.',
       linkText: 'See selected work', linkHref: '#work'
     }
   ];

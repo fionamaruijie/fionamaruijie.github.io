@@ -348,10 +348,17 @@ a.contact-row:hover .contact-go { color: var(--accent); transform: translateX(4p
   .contact-v { grid-area: v; font-size: 1.05rem; }
   .contact-go { display: none; }
 }
+@media (max-width: 480px) {
+  .hero-portrait { order: 0; }
+  .eyebrow .eb-sep { display: block; height: 0; overflow: hidden; }
+}
 @media (max-width: 420px) {
   .wrap { padding-inline: 20px; }
   .hero-actions { gap: 10px; }
   .btn { padding: 12px 18px; }
+}
+@media (max-width: 359px) {
+  .eyebrow { letter-spacing: .12em; }
 }
 
 /* ---------- Motion ---------- */
