@@ -2,15 +2,19 @@
 
 Live site: https://fionamaruijie.github.io/
 
-A premium, editorial single-page portfolio positioned around **Business Analytics ×
-Data Quality × AI Workflows**. Plain HTML, CSS, and vanilla JavaScript — no build step,
-deploys directly on GitHub Pages.
+Personal portfolio of Ruijie Ma (Fiona), a New York-based Business & Data Analyst working
+across data quality, financial analysis, and research. M.S. in Business Analytics and
+Artificial Intelligence (STEM), Johns Hopkins Carey Business School (Jul 2026).
+
+Plain HTML, CSS, and vanilla JavaScript — no build step, deploys directly on GitHub Pages.
 
 ## Design
-- Restrained, consulting/editorial aesthetic: serif display type (Newsreader) + Inter,
-  warm ivory palette, deep-teal accent, generous whitespace, hairline dividers.
+- Editorial, consulting-style look: Newsreader serif for display type + Inter for body
+  text, soft lavender-white background, deep plum text, periwinkle-violet accent
+  (`#6C5CE7`), and a baby-blue → violet → pink gradient (`#8FB8FF → #B49BF4 → #F4A6D4`)
+  on the headline accent, primary buttons and badges. Generous whitespace, hairline dividers.
 - Signature **interactive “journey” map** (Experience section): click a city to read the
-  story behind it. Light theme, English only.
+  story behind it. Light theme only, English only.
 
 ## Structure
 - `index.html` — all content & sections (Home, About, Work, Experience + map, Skills, Résumé, Contact)
@@ -18,7 +22,8 @@ deploys directly on GitHub Pages.
 - `app.js` — mobile menu, scroll-spy, scroll reveal, and the interactive map (no libraries)
 - `assets/`
   - `Ruijie_Ma_Resume.pdf` — résumé (linked from hero, résumé band)
-  - `avatar.jpg` — portrait (About section)
+  - `Inventory_Agent_Report.pdf` — team report (linked from the Inventory Agent project)
+  - `avatar.jpg` — portrait (hero; also the social-preview image)
   - `favicon.svg` — site icon
   - `world.svg` — faint world map used as the journey-map background
 - `.nojekyll` — serve files as-is (no Jekyll processing)
