@@ -1,0 +1,4 @@
+# Local helper files (not part of the site)
+.claude/
+website-update-2026-10-05.diff
+.DS_Store
