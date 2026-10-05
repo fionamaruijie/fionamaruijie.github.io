@@ -23,6 +23,7 @@ Plain HTML, CSS, and vanilla JavaScript — no build step, deploys directly on G
 - `assets/`
   - `Ruijie_Ma_Resume.pdf` — résumé (linked from hero, résumé band)
   - `Inventory_Agent_Report.pdf` — team report (linked from the Inventory Agent project)
+  - `Fuel_Inventory_Report.pdf` — team report (linked from the Fuel Inventory project)
   - `avatar.jpg` — portrait (hero; also the social-preview image)
   - `favicon.svg` — site icon
   - `world.svg` — faint world map used as the journey-map background
