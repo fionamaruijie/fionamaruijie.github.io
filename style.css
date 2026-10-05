@@ -350,6 +350,8 @@ a.contact-row:hover .contact-go { color: var(--accent); transform: translateX(4p
 }
 @media (max-width: 480px) {
   .hero-portrait { order: 0; }
+  .hero-text { display: flex; flex-direction: column; }
+  .hero-lead, .hero-chips { order: 1; }
   .eyebrow .eb-sep { display: block; height: 0; overflow: hidden; }
 }
 @media (max-width: 420px) {
